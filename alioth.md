@@ -1,0 +1,19 @@
+## v0.2
+- Use power efficient workingqueues
+- Implement Timer Events Oriented (TEO) Governor
+- Implement adreno boost
+- Implement KCAL color calibration
+- Remove POPP
+- Use -O3 optimization for CONFIG_CC_OPTIMIZE_FOR_PERFORMANCE
+- Upstream linux 4.19.325
+- kernel-tree: Merge tag ASB-2025-01-05_4.19-stable
+- kernel-tree: Merge tag LA.UM.9.12.1.r1-09700-SMxx50.QSSI12.0
+- kernel-tree: Merge tag LA.UM.9.15.2.r1-10600-KAMORTA.QSSI14.0
+- audio-kernel: Merge tag LA.UM.9.12.1.r1-09700-SMxx50.QSSI12.0
+- audio-kernel: Merge tag LA.UM.9.15.2.r1-10600-KAMORTA.QSSI14.0
+- camera-kernel: Merge tag LA.UM.9.12.1.r1-09700-SMxx50.QSSI12.0
+- camera-kernel: Merge tag LA.UM.9.12.r1-18500-SMxx50.QSSI14.0' o
+- camera-kernel: Merge tag LA.UM.9.15.2.r1-10600-KAMORTA.QSSI14.0
+- video-driver: Merge tag LA.UM.9.12.1.r1-09700-SMxx50.QSSI12.0
+- fw-api: Merge tag LA.UM.9.12.r1-18500-SMxx50.QSSI14.0
+- qca-wifi-host-cmn: Merge tag LA.UM.9.12.r1-18500-SMxx50.QSSI14.0
