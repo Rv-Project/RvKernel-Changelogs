@@ -1,3 +1,20 @@
+## v0.3
+- Update to RvClang 20.1.0
+- KernelSU: Update to v1.0.5
+- arm64: configs: vendor: VINTF kernel target-level 5 -> 6 changes
+- ANDROID: android-verity: Prevent double-freeing metadata
+- UPSTREAM: f2fs: fix UAF in f2fs_available_free_memory
+- msm: ipa2: Add check to validate rule_cnt
+- arch: arm64: configs: apollo: Switch to TECHPACK_CAMERA_XIAOMI_CAS
+- Revert "ANDROID: ALSA: jack: Update supported jack switch types"
+- Revert "ALSA: jack: Add support to report second microphone"
+- ASOC: Remove support for ANC headphones
+- UPSTREAM: ALSA: usb-audio: Fix a DMA to stack memory bug
+- msm: camera: sensor: TOCTOU error handling
+- kernel-tree: Merge tag LA.UM.9.15.2.r1-11100-KAMORTA.QSSI14.0
+- audio-kernel: Merge tag LA.UM.9.15.2.r1-11100-KAMORTA.QSSI14.0
+- camera-kernel: Merge tag LA.UM.9.12.1.r1-11000-SMxx50.QSSI12.0
+
 ## v0.2
 - Use power efficient workingqueues
 - Implement Timer Events Oriented (TEO) Governor
